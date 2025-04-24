@@ -21,8 +21,8 @@ canvas_result = st_canvas(
     stroke_width=stroke_width,
     stroke_color=stroke_color,
     background_color=bg_color,
-    height=350,
-    width=550,
+    height=550,
+    width=850,
     drawing_mode=drawing_mode,
     key="canvas_magico",
 )
